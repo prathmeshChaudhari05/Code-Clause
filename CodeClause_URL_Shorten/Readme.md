@@ -16,14 +16,15 @@ The following packages are required to run this script:
 pip install -r requirements.txt
 ```
 ## Usage
-Replace ```7aee10d43...53ef5d05714``` i.e bitlyToken variable in URL_Shorten.py with your actual Bitly API key.
+1. Replace ```7aee10d43...53ef5d05714``` i.e bitlyToken variable in URL_Shorten.py with your actual Bitly API key.
 
-Run the script using the following command:
+2. Replace your URL with `url` variable that you want to shorten.
+
+3. Run the script using the following command:
 
 ```pip
 python URL_Shorten.py
 ```
-Replace your URL with ```url``` variable that you want to shorten.
 The script will return the shortened URL.
 
 Built With</br>

@@ -1,6 +1,6 @@
-bitlyToken = "7aee10d43ec4db14d99f184204ff853ef5d05714"
-#API = 7aee10d43ec4db14d99f184204ff853ef5d05714
-
+bitlyToken = "7aee10d43...53ef5d05714"
+#API = 7aee10d43...53ef5d05714
+#This part was hidden in Video Tutorial.
 
 
 

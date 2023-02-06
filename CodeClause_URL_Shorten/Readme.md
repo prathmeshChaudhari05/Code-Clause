@@ -7,21 +7,23 @@ These instructions will help you get a copy of the project up and running on you
 <h3>Prerequisites</h3>
 The following packages are required to run this script:
 
-'requests'
+* python 
+* request 
+
 <br>You can install these packages using the following command:
 
-Copy code
 ```python
 pip install -r requirements.txt
 ```
-Usage
-Replace ```YOUR_BITLY_ACCESS_TOKEN``` in shorten.py with your actual Bitly API key.
+## Usage
+Replace ```7aee10d43...53ef5d05714``` i.e bitlyToken variable in URL_Shorten.py with your actual Bitly API key.
 
 Run the script using the following command:
 
-Copy code
-python shorten.py
-Enter the long URL that you want to shorten when prompted.
+```pip
+python URL_Shorten.py
+```
+Replace your URL with ```url``` variable that you want to shorten.
 The script will return the shortened URL.
 
 Built With</br>

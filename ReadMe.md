@@ -1,13 +1,13 @@
 # Python Projects
 This repository contains three Python projects:
 
-URL Shortener
+## URL Shortener
 A simple Python script that can shorten a given URL using a URL shortening service. The script takes in a long URL and returns a shortened URL.
 
-Alarm Clock
+## Alarm Clock
 A graphical user interface (GUI) alarm clock application built using Python and the tkinter library. The user can set an alarm time, choose an alarm sound, and snooze the alarm if needed.
 
-Voice Assistant
+## Voice Assistant
 A voice-controlled assistant built using Python and the SpeechRecognition and pyttsx3 libraries. The user can give voice commands to the assistant to perform various tasks such as setting reminders, playing music, and searching the web.
 
 Requirements

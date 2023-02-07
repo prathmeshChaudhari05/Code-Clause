@@ -3,7 +3,6 @@ This repository contains three Python projects:
 
 ## [URL Shortener](https://github.com/prathmeshChaudhari05/Code-Clause/tree/main/CodeClause_URL_Shorten)
 A simple Python script that can shorten a given URL using a URL shortening service. The script takes in a long URL and returns a shortened URL. For this I have used Bitly API.
-(Github)[https://github.com/prathmeshChaudhari05/Code-Clause/tree/main/CodeClause_URL_Shorten]
 
 ## [Alarm Clock](https://github.com/prathmeshChaudhari05/Code-Clause/tree/main/CodeClause_Alarm_Clock_with_GUI)
 A graphical user interface (GUI) alarm clock application built using Python and the tkinter library. The user can set an alarm time, Alarm Sound(some build-in sounds can be used)
